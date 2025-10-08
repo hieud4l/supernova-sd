@@ -1,0 +1,65 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "font-family": {
+      "font-family-display": {
+        "value": "Inter",
+        "type": "string"
+      },
+      "font-family-display-2": {
+        "value": "Xanh Display 2.0",
+        "type": "string"
+      },
+      "font-family-body": {
+        "value": "Inter",
+        "type": "string"
+      },
+      "font-family-body-2": {
+        "value": "Xanh Display 2.0",
+        "type": "string"
+      },
+      "font-family-display-3": {
+        "value": "Lexend",
+        "type": "string"
+      },
+      "font-family-body-3": {
+        "value": "Lexend",
+        "type": "string"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "Regular",
+        "type": "string"
+      },
+      "regular-italic": {
+        "value": "Regular italic",
+        "type": "string"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "string"
+      },
+      "medium-italic": {
+        "value": "Medium italic",
+        "type": "string"
+      },
+      "semibold": {
+        "value": "Semibold",
+        "type": "string"
+      },
+      "semibold-italic": {
+        "value": "Semibold italic",
+        "type": "string"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "string"
+      },
+      "bold-italic": {
+        "value": "Bold italic",
+        "type": "string"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "blur": {
+    "backdrop-blurs": {
+      "backdrop-blur-sm": {
+        "value": "blur(8px)",
+        "type": "blur",
+        "description": "Backdrop blurs (or background blurs) allow you to add depth and realism to designs by positioning elements on a z-axis."
+      },
+      "backdrop-blur-md-2": {
+        "value": "blur(16px)",
+        "type": "blur",
+        "description": "Backdrop blurs (or background blurs) allow you to add depth and realism to designs by positioning elements on a z-axis."
+      },
+      "backdrop-blur-lg-3": {
+        "value": "blur(24px)",
+        "type": "blur",
+        "description": "Backdrop blurs (or background blurs) allow you to add depth and realism to designs by positioning elements on a z-axis."
+      },
+      "backdrop-blur-xl-4": {
+        "value": "blur(40px)",
+        "type": "blur",
+        "description": "Backdrop blurs (or background blurs) allow you to add depth and realism to designs by positioning elements on a z-axis."
+      }
+    }
+  }
+}
